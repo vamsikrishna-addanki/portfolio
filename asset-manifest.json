@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ome2/static/css/main.10eac97b.chunk.css",
+    "main.js": "/ome2/static/js/main.530f5ff9.chunk.js",
+    "main.js.map": "/ome2/static/js/main.530f5ff9.chunk.js.map",
+    "runtime-main.js": "/ome2/static/js/runtime-main.934abb93.js",
+    "runtime-main.js.map": "/ome2/static/js/runtime-main.934abb93.js.map",
+    "static/js/2.1722e3f0.chunk.js": "/ome2/static/js/2.1722e3f0.chunk.js",
+    "static/js/2.1722e3f0.chunk.js.map": "/ome2/static/js/2.1722e3f0.chunk.js.map",
+    "static/js/3.d21276c2.chunk.js": "/ome2/static/js/3.d21276c2.chunk.js",
+    "static/js/3.d21276c2.chunk.js.map": "/ome2/static/js/3.d21276c2.chunk.js.map",
+    "index.html": "/ome2/index.html",
+    "static/css/main.10eac97b.chunk.css.map": "/ome2/static/css/main.10eac97b.chunk.css.map",
+    "static/js/2.1722e3f0.chunk.js.LICENSE.txt": "/ome2/static/js/2.1722e3f0.chunk.js.LICENSE.txt",
+    "static/media/Map.348828a3.jpeg": "/ome2/static/media/Map.348828a3.jpeg",
+    "static/media/Profilepic.55ab8580.jpg": "/ome2/static/media/Profilepic.55ab8580.jpg",
+    "static/media/VAMSIKRISHNA ADDANKI RESUME.b185793d.pdf": "/ome2/static/media/VAMSIKRISHNA ADDANKI RESUME.b185793d.pdf",
+    "static/media/git.a52daa76.gif": "/ome2/static/media/git.a52daa76.gif",
+    "static/media/leetcode.c79f333b.gif": "/ome2/static/media/leetcode.c79f333b.gif",
+    "static/media/project3.98a6b4fe.png": "/ome2/static/media/project3.98a6b4fe.png",
+    "static/media/project4.1aa45be1.png": "/ome2/static/media/project4.1aa45be1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.934abb93.js",
+    "static/js/2.1722e3f0.chunk.js",
+    "static/css/main.10eac97b.chunk.css",
+    "static/js/main.530f5ff9.chunk.js"
+  ]
+}
