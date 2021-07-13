@@ -102,7 +102,7 @@ body{
    font-family: 'Cormorant SC', serif;
    font-family: 'Crimson Text', serif;
   
-  background: #dde1e7;
+  background: #e6d3ff;
   
   
   /* background: linear-gradient(#4ee9d4,#9FF026); */
@@ -124,7 +124,7 @@ nav
 	position: absolute;
 	top: 4%;
 	left: 4%; 
-	background: #dde1e7;
+	background: #e6d3ff;
 	border-radius: 30px;
 	padding: 0;
   line-height: 1;
