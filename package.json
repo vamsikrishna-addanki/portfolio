@@ -1,7 +1,7 @@
 {
   "name": "ome2",
   "version": "0.1.0",
-  "homepage": "http://vamsikrishna-addanki.github.io/ome2",
+  "homepage": "http://vamsikrishna-addanki.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
